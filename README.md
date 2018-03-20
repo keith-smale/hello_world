@@ -5,8 +5,6 @@ This a readme file for my first Git repo.
 ## This is how marddown works.
 
 
-Will try a pull requests.
-
-Try again
+This is a new branch to try a pull request.
 
 
